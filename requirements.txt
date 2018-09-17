@@ -1,0 +1,9 @@
+pymorphy2[fast]
+tqdm
+docxtpl
+funcy
+natasha
+tabulate
+python-slugify
+wand
+transliterate
